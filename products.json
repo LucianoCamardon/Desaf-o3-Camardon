@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Naranjas",
+    "description": "Naranjas o Mandarinas? Nunca supe la diferencia",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "Manzanas",
+    "description": "Son manzanas, nunca viste una?",
+    "price": 30,
+    "thumbnail": "Sin imagen 2",
+    "code": "aaa001",
+    "stock": 40
+  },
+  {
+    "id": 3,
+    "title": "Bananas",
+    "description": "Dale, si te re gustan las bananas a vos",
+    "price": 300,
+    "thumbnail": "Sin imagen 2",
+    "code": "aaa002",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "title": "Frutillas",
+    "description": "Frutillita como el Juan",
+    "price": 205,
+    "thumbnail": "Sin imagen 2",
+    "code": "aaa003",
+    "stock": 80
+  },
+  {
+    "id": 5,
+    "title": "Sandias",
+    "description": "Sandía? o Melon?",
+    "price": 600,
+    "thumbnail": "Sin imagen 2",
+    "code": "aaa004",
+    "stock": 40
+  }
+]
